@@ -1,5 +1,5 @@
 # Heart-Attack-Analysis-and-Prediction
-Heart attack is a myocardial necrosis caused by acute and persistent ischemia and hypoxia of  coronary artery which manifestations are arrhythmia, shock or heart failure, which can be fatal
+Heart attack is a myocardial necrosis caused by acute and persistent ischemia and hypoxia of  coronary artery which manifestations are arrhythmia, shock or heart failure, which can be fatal.
 A heart attack occurs when the flow of blood to the heart is blocked. The blockage is most often 
 a buildup of fat, cholesterol and other substances, which form a plaque in the arteries that feed
 the heart (coronary arteries). Sometimes, a plaque can rupture and form a clot that blocks 
